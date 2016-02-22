@@ -1,0 +1,56 @@
+Header {
+  padding-top: 2 px;
+  text-align: center;
+  font-size: 2em;
+  border: .5px solid;
+background-color: darkorange;
+margin-top: 3%;
+}
+.topAlbumLayout {
+  display: none;
+  list-style-type: none;
+  padding-top: 3%;
+  padding-left: 2%;
+  padding-bottom: 2%;
+
+}
+.bottomAlbumLayout {
+  display: inline-block;
+  list-style-type: none;
+  padding-top: 5%;
+  padding-bottom: 2%;
+
+}
+
+
+.active {
+  display: inline-block;;
+  width: 100%;
+  height: auto;
+}
+img {
+  display: inline-block;
+  width: 100%;
+  height: 300px;
+}
+.albumPhotos {
+  display: inline-block;
+
+}
+.albumPhotosTwo {
+  display: inline-block;
+}
+.photoPage{
+  width: 30%;
+  height: auto;
+}
+.phAlbDiv {
+  display: inline-block;
+  width: 30%;
+}
+.albumPage {
+  display: none;
+}
+section {
+  display: none;
+}
